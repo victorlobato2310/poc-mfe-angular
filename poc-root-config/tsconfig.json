@@ -1,0 +1,16 @@
+{
+  "extends": "ts-config-single-spa",
+  "files": [
+    "src/poc-root-root-config.ts"
+  ],
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "es6"
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "src/**/*.test*"
+  ]
+}

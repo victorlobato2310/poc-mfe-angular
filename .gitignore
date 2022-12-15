@@ -1,0 +1,8 @@
+poc-root-config/node_modules
+poc-root-config/package-lock.json
+poc-root-config/dist
+poc-angular/dist
+poc-angular/node_modules
+poc-angular/.angular
+poc-angular/.vscode
+poc-angular/package-lock.json
